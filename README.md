@@ -33,7 +33,7 @@ Notable achievements include:
 
 ## How to View
 You can view my portfolio live on GitHub Pages by clicking the link below:
-- [Anushka's Portfolio](https://your-username.github.io/portfolio-website/)
+- [Anushka's Portfolio]([https://your-username.github.io/portfolio-website/](https://anushkaa-dubey.github.io/portfolio/))
 
 ## Resume
 You can download my resume in PDF format here:
